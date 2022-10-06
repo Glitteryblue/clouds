@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+*{font-family: font-family: 'Playfair Display', serif;
+              background-color:#F1E7E9;}
+
+              .navBar{position: relative;
+                z-index: 999;
+               padding-bottom: 128px;
+               padding-right: 25px;}
+        .navLinks{border: 20px;
+          padding-top: 50px;
+        padding-left: 40px;}
+
+nav img {width:10%;height:10%;
+          float:left;
+        padding-right: 10px;}
+nav ul {list-style-type: none;}
+li {float: left;}
+    a {padding: 20px;
+    font-size: large;
+color: #594a4e;}
+    
+    .buttonOne {font-size: 20px;
+             float:right;
+            background-color: #d571b2;
+            padding: 16px 32px;
+            border-radius: 8px;
+            border-color: antiquewhite;
+            color: antiquewhite;
+        }
+.banner {background-image: url(img/zoltan-tasi-vHnVtLK8rCc-unsplash.jpg);
+    background-size: cover;
+    height: 60vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    z-index:2;}  
+
+ .hero-text{font-size: 70px;
+        background-color: transparent;
+        text-align: center;
+        position: absolute;
+        font-style: italic;
+       top: 25%;
+        left: 65%;
+        transform: translate(-50%, -50%);
+        color:#fbe66e;
+      }
+      .hero-text2{
+        background-color: transparent;
+        text-align: center;
+        position: absolute;
+        top: 45%;
+        left: 65%;
+        transform: translate(-50%, -50%);
+        color:#fbe66e;
+      }
+    .heroButton{
+      background-color:#d571b2;
+      text-align: center;
+      position: absolute;
+      top: 65%;
+      left: 65%;
+      transform: translate(-50%, -50%);
+      font-size: 20px;
+            padding:16px 32px;
+            border-radius: 8px;
+            border-color: antiquewhite;
+            color: antiquewhite;
+    }
+.address{text-align: center;
+padding-top: 80px;
+font-size: large;}
+
+
