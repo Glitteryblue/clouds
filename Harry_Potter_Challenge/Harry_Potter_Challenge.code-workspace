@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../CCweekone/weekThree/homeworkWeekThree"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "homeworkWeekThree"
+	}
+}

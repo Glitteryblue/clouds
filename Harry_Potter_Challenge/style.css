@@ -1,0 +1,84 @@
+@import url('http://fonts.cdnfonts.com/css/harry-potter');
+
+*{ margin: 0;
+    padding: 0%;}
+
+    body{
+    background:black;
+    color:white;
+    font-family: 'Harry Potter';
+}
+
+.banner{background-image: url(images/banner.jpg);
+    width:100%;
+    height: 80vh;
+    background-size: cover;
+    justify-content: center;
+    flex-grow: 6;
+align-self: stretch;}
+
+.heroText{font-size: 70px;
+    background-color: transparent;
+    text-align: center;
+    position: absolute;
+    margin: 150px;
+Padding:40px;}
+    
+    .flexcontainerOne{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+    font-size: 25px;
+margin: 50px;}
+
+.headingOne
+{text-align: center;
+margin:50px;
+padding: 20px;
+font-size: 40px;}
+
+    .flexcontainerTwo
+    {height: 40vh;
+        display: flex;
+        flex-direction: row;
+        font-size: 18px;
+        justify-content: space-around;
+        margin: 40px;
+        padding: 25px;
+    }
+.fitemSeven {width: 40%;
+    padding: 5px;
+text-align: center;
+margin-top: 10px;}
+
+.flexcontainerThree
+{height: 40vh;
+    display: flex;
+    flex-direction: row;
+    font-size: 18px;
+    justify-content: space-around;
+    padding:25px;
+    margin: 40px;}
+
+.fitemEight {width: 40%;
+    padding: 5px;
+text-align: center;
+margin-top: 10px;}
+
+.flexcontainerFour
+{height: 40vh;
+    display: flex;
+    flex-direction: row;
+    font-size: 18px;
+    justify-content: space-around;
+    padding:25px;
+    margin: 40px;}
+
+.fitemNine {width: 40%;
+    padding: 5px;
+text-align: center;
+margin-top: 10px;}
+
+.testimonials {text-align: center;}
+footer {text-align: center;
+margin-top: 100px;}
